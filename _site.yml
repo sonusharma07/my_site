@@ -1,0 +1,9 @@
+name: "Sonu Sharma"
+output_dir: "."
+navbar:
+  title: "Sonu Sharma"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
